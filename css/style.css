@@ -3,5 +3,7 @@ font-family: 'Vesper Libre', serif;
 color: #1a1a1a;
 line-height: 1.5;
 font-size: 1.125rem;
-
+}
+figure > img {
+    width: 100%;
 }
