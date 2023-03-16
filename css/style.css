@@ -7,3 +7,6 @@ font-size: 1.125rem;
 figure > img {
     width: 100%;
 }
+figcaption, .article-category, .sub-title, .author, time {
+    font-family: 'Open Sans';
+}
